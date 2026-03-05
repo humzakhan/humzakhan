@@ -1,4 +1,4 @@
-![Banner Image](https://i.imgur.com/YSUD6tF.png)
+![Banner Image](https://i.imgur.com/uzK8igB.png)
 
 -----
 
