@@ -10,7 +10,7 @@ Apart from creating quality software, I'm deeply passionate about our place in t
 
 ## 💻 Experiments
 
-[repomap](https://github.com/humzakhan/repomap) - Significantly reduce onboarding time for any GitHub repository by visually navigating it.
+[repomap](https://github.com/humzakhan/repomap) - Significantly reduce onboarding time for any GitHub repository by visually navigating it.\
 [recap](https://github.com/humzakhan/recap) - Extract targeted insights from any piece of content on the web.
 
 ## 🛠️ Tech Stack & Tools 
