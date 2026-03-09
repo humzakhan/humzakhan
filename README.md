@@ -8,6 +8,10 @@ I'm Humza Khan, a Product Engineer and Full Stack Developer based in Montreal, C
 
 Apart from creating quality software, I'm deeply passionate about our place in the universe and the physical laws that govern our very existence. This comes with a philosophical aspect that I like to contemplate from time to time. When I'm not having an existential crisis because of the aforementioned interests, listening to good techno music gets my heart beating a little too fast, and I love that.
 
+## 💻 Experiments
+
+[repomap](https://github.com/humzakhan/repomap) - Significantly reduce onboarding time for any GitHub repository by visually navigating it.
+
 ## 🛠️ Tech Stack & Tools 
 
 I'm fairly comfortable and work with the following tools on a daily basis.
