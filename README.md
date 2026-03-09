@@ -4,18 +4,19 @@
 
 ## Hey there 👋
 
-I'm Humza Khan, a Product Engineer and Full Stack Developer based in Montreal, Canada 🇨🇦. I started tinkering with code around the age of 14 by building multiplayer servers and gameplay mods; this turned into a lifelong passion. I'm enthusiastic about exploring new avenues in tech, and my GitHub profile is essentially a graveyard of private repositories and unfinished projects that will never see the light of the day.
+Sr. Product/Software Engineer based in Montreal, Canada 🇨🇦. I started coding around 14, building multiplayer servers and gameplay mods, which grew into a lifelong passion of building and experimentation.
 
-Apart from creating quality software, I'm deeply passionate about our place in the universe and the physical laws that govern our very existence. This comes with a philosophical aspect that I like to contemplate from time to time. When I'm not having an existential crisis because of the aforementioned interests, listening to good techno music gets my heart beating a little too fast, and I love that.
+My GitHub is mostly a graveyard of private repos and unfinished ideas—evidence of constant tinkering and curiosity about new technologies.
+
+Outside of software, I’m fascinated by physics, our place in the universe, and the philosophical questions that come with it.
 
 ## 💻 Experiments
 
-[repomap](https://github.com/humzakhan/repomap) - Significantly reduce onboarding time for any GitHub repository by visually navigating it.\
-[recap](https://github.com/humzakhan/recap) - Extract targeted insights from any piece of content on the web.
+* 🗄️ [repomap](https://github.com/humzakhan/repomap) - Significantly reduce onboarding time for any GitHub repository by visually navigating it.
+* 💬 [recap](https://github.com/humzakhan/recap) - Extract targeted insights from any piece of content on the web.
+* 👾 [stellar](https://github.com/humzakhan/stellar) - Explore 120K catalogued stars closer to our sun in a gamified fashion.
 
-## 🛠️ Tech Stack & Tools 
-
-I'm fairly comfortable and work with the following tools on a daily basis.
+## 🛠️ Tech Stack
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
@@ -33,18 +34,3 @@ I'm fairly comfortable and work with the following tools on a daily basis.
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![]()
-
-<!--
-**humzakhan/humzakhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
