@@ -6,9 +6,7 @@
 
 Sr. Product/Software Engineer based in Montreal, Canada 🇨🇦. I started coding around 14, building multiplayer servers and gameplay mods, which grew into a lifelong passion of building and experimentation.
 
-My GitHub is mostly a graveyard of private repos and unfinished ideas—evidence of constant tinkering and curiosity about new technologies.
-
-Outside of software, I’m fascinated by physics, our place in the universe, and the philosophical questions that come with it.
+My GitHub is mostly a graveyard of private repos and unfinished ideas. Outside of software, I’m fascinated by physics, our place in the universe, and the philosophical questions that come with it.
 
 ## 💻 Experiments
 
