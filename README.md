@@ -12,6 +12,7 @@ Outside of software, I’m fascinated by physics, our place in the universe, and
 
 ## 💻 Experiments
 
+* 📝 [hone](https://github.com/humzakhan/hone) - Framework for hardening project specifications through adversarial critique loops.
 * 🗄️ [repomap](https://github.com/humzakhan/repomap) - Significantly reduce onboarding time for any GitHub repository by visually navigating it.
 * 💬 [recap](https://github.com/humzakhan/recap) - Extract targeted insights from any piece of content on the web.
 * 👾 [stellar](https://github.com/humzakhan/stellar) - Explore 120K catalogued stars closer to our sun in a gamified fashion.
