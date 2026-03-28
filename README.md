@@ -10,6 +10,7 @@ My GitHub is mostly a graveyard of private repos and unfinished ideas. Outside o
 
 ## 💻 Experiments
 
+* 💡 [lumi](https://github.com/humzakhan/lumi) - Visually learn any concept
 * 📝 [hone](https://github.com/humzakhan/hone) - Framework for hardening project specifications through adversarial critique loops.
 * 🗄️ [repomap](https://github.com/humzakhan/repomap) - Significantly reduce onboarding time for any GitHub repository by visually navigating it.
 * 💬 [recap](https://github.com/humzakhan/recap) - Extract targeted insights from any piece of content on the web.
