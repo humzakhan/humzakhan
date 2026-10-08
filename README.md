@@ -10,6 +10,7 @@ My GitHub is mostly a graveyard of private repos and unfinished ideas. Outside o
 
 ## 🚧 Currently Building
 
+* 🏠 [verstack](https://verstack.ai) - AI-powered property inspections with evidence-backed reports. In development.
 * 🤝 [syndic](https://syndic.dev) - A shared workspace where humans and persistent AI agents build and ship products together. Closed source; in development.
 
 ## 💻 Experiments
