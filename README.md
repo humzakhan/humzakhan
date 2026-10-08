@@ -8,6 +8,10 @@ Sr. Product/Software Engineer based in Montreal, Canada 🇨🇦. I started codi
 
 My GitHub is mostly a graveyard of private repos and unfinished ideas. Outside of software, I’m fascinated by physics, our place in the universe, and the philosophical questions that come with it.
 
+## 🚧 Currently Building
+
+* 🤝 [syndic](https://syndic.dev) - A shared workspace where humans and persistent AI agents build and ship products together. Closed source; in development.
+
 ## 💻 Experiments
 
 * 💡 [lumi](https://github.com/humzakhan/lumi) - Visually learn any concept
@@ -15,6 +19,11 @@ My GitHub is mostly a graveyard of private repos and unfinished ideas. Outside o
 * 🗄️ [repomap](https://github.com/humzakhan/repomap) - Significantly reduce onboarding time for any GitHub repository by visually navigating it.
 * 💬 [recap](https://github.com/humzakhan/recap) - Extract targeted insights from any piece of content on the web.
 * 👾 [stellar](https://github.com/humzakhan/stellar) - Explore 120K catalogued stars closer to our sun in a gamified fashion.
+* 🔎 [provenant](https://provenant.sh/) - Trace financial outputs to their source data with evidence you can verify and replay.
+* 📚 [fauxbooks](https://github.com/humzakhan/fauxbooks) - Generate reproducible synthetic accounting datasets that reconcile across ledgers, bank statements, and reports.
+* 🌐 [tailnet-pilot](https://github.com/humzakhan/tailnet-pilot) - Administer Tailscale networks through a safety-first CLI for humans and AI agents.
+* 📊 [tokenwatch](https://github.com/humzakhan/tokenwatch) - Track AI token usage, spending, and limits from your macOS menu bar.
+* 💬 [openhands-chat-bridge](https://github.com/humzakhan/openhands-chat-bridge) - Connect Slack conversations to a self-hosted OpenHands agent.
 
 ## 🛠️ Tech Stack
 
