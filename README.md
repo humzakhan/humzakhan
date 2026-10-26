@@ -15,6 +15,7 @@ My GitHub is mostly a graveyard of private repos and unfinished ideas. Outside o
 
 ## 💻 Experiments
 
+* 📦 [Capsule Memory](https://github.com/humzakhan/capsule-memory) - An encrypted storage and sync utility for agent memories and skills across machines and harnesses. Experimental.
 * 💡 [lumi](https://github.com/humzakhan/lumi) - Visually learn any concept
 * 📝 [hone](https://github.com/humzakhan/hone) - Framework for hardening project specifications through adversarial critique loops.
 * 🗄️ [repomap](https://github.com/humzakhan/repomap) - Significantly reduce onboarding time for any GitHub repository by visually navigating it.
