@@ -10,22 +10,22 @@ My GitHub is mostly a graveyard of private repos and unfinished ideas. Outside o
 
 ## 🚧 Currently Building
 
-* 🏠 [verstack](https://verstack.ai) - AI-powered property inspections with evidence-backed reports. In development.
 * 🤝 [syndic](https://syndic.dev) - A shared workspace where humans and persistent AI agents build and ship products together. Closed source; in development.
+* 🏠 [verstack](https://verstack.ai) - AI-powered property inspections with evidence-backed reports. In development.
 
 ## 💻 Experiments
 
 * 📦 [Capsule Memory](https://github.com/humzakhan/capsule-memory) - An encrypted storage and sync utility for agent memories and skills across machines and harnesses. Experimental.
+* 🌐 [tailnet-pilot](https://github.com/humzakhan/tailnet-pilot) - Administer Tailscale networks through a safety-first CLI for humans and AI agents.
+* 💬 [openhands-chat-bridge](https://github.com/humzakhan/openhands-chat-bridge) - Connect Slack conversations to a self-hosted OpenHands agent.
+* 📚 [fauxbooks](https://github.com/humzakhan/fauxbooks) - Generate reproducible synthetic accounting datasets that reconcile across ledgers, bank statements, and reports.
+* 🔎 [provenant](https://provenant.sh/) - Trace financial outputs to their source data with evidence you can verify and replay.
 * 💡 [lumi](https://github.com/humzakhan/lumi) - Visually learn any concept
 * 📝 [hone](https://github.com/humzakhan/hone) - Framework for hardening project specifications through adversarial critique loops.
-* 🗄️ [repomap](https://github.com/humzakhan/repomap) - Significantly reduce onboarding time for any GitHub repository by visually navigating it.
-* 💬 [recap](https://github.com/humzakhan/recap) - Extract targeted insights from any piece of content on the web.
 * 👾 [stellar](https://github.com/humzakhan/stellar) - Explore 120K catalogued stars closer to our sun in a gamified fashion.
-* 🔎 [provenant](https://provenant.sh/) - Trace financial outputs to their source data with evidence you can verify and replay.
-* 📚 [fauxbooks](https://github.com/humzakhan/fauxbooks) - Generate reproducible synthetic accounting datasets that reconcile across ledgers, bank statements, and reports.
-* 🌐 [tailnet-pilot](https://github.com/humzakhan/tailnet-pilot) - Administer Tailscale networks through a safety-first CLI for humans and AI agents.
+* 💬 [recap](https://github.com/humzakhan/recap) - Extract targeted insights from any piece of content on the web.
+* 🗄️ [repomap](https://github.com/humzakhan/repomap) - Significantly reduce onboarding time for any GitHub repository by visually navigating it.
 * 📊 [tokenwatch](https://github.com/humzakhan/tokenwatch) - Track AI token usage, spending, and limits from your macOS menu bar.
-* 💬 [openhands-chat-bridge](https://github.com/humzakhan/openhands-chat-bridge) - Connect Slack conversations to a self-hosted OpenHands agent.
 
 ## 🛠️ Tech Stack
 
